@@ -1,0 +1,33 @@
+span.welcome {
+    background-color: black;
+    color: white;
+    padding: 10px;
+}
+
+
+.cupcake {
+    width: 3em;
+    margin-right: 1rem;
+}
+
+.navbar-brand {
+    background-color: pink;
+    font-weight: bold;
+}
+
+form input {
+    width: 100%;
+    outline: none;
+}
+
+form select {
+    width: 100%;
+}
+
+form label {
+    padding-top: 0.2rem;
+}
+
+form button {
+    margin-top: 0.5rem;
+}
